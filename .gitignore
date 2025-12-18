@@ -3,4 +3,6 @@ venv/
 env/
 __pycache__/
 .ipynb_checkpoints/
+anaconda_projects/
 *.pyc
+*.db
