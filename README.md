@@ -8,7 +8,7 @@ The model is built using **scikit-learn pipelines** and deployed through an inte
 
 You can interact with the Laptop Price Predictor through the Streamlit web application:
 
-👉 **Live Demo:** https://laptop-price-predictor.streamlit.app
+👉 **Live Demo:** https://laptop-price-explorer.streamlit.app
 
 > If the app is not currently live, you can run it locally by following the instructions in the **How to Run Locally** section.
 ---
